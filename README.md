@@ -8,4 +8,3 @@ This contains
   >important documents
   >the code for the website and Automated Reminder System(ARS)
   >suggestions from house members
-  
